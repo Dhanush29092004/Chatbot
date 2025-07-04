@@ -1,6 +1,5 @@
 # ChatGPT Clone 🤖✨
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-![Built with HTML, CSS, JS](https://img.shields.io/badge/Built%20With-HTML%20%7C%20CSS%20%7C%20JavaScript-blue)  
+ 
 
 This is a simple **ChatGPT Clone** built with a custom UI that lets users interact with an AI assistant.  
 It replicates the ChatGPT experience with a clean, dark-themed interface.
